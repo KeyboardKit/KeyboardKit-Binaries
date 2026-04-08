@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Resources/Icon.png" alt="Project Icon" width="250" />
+    <img src="Resources/Icon-2026.png" alt="Project Icon" width="250" />
     <br /><br />
 </p>
 
