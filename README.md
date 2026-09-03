@@ -8,6 +8,8 @@
 
 This repository is used to host SDK artifacts & dSYMs for [KeyboardKit][Repository]. Each release tag matches an SDK version.
 
+This repository is also used to host XCFramework artifacts for KeyboardKit plugins.
+
 
 ## Website
 
