@@ -1,0 +1,20 @@
+# SPM defaults
+.DS_Store
+/Packages
+.swiftpm
+
+## Generated
+.build/
+build/
+/.build
+DerivedData/
+
+## Tests
+
+_Test/
+
+## Licenses
+Sources/KeyboardKit/_Licenses/BinaryLicenses
+
+# Xcode
+*.xcuserstate
